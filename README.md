@@ -2,8 +2,8 @@
 
 
 ## التقنيات المسنخدمة
-### تقنيات الباكاند
-1. laravrl
+- **تقنيات الباكاند**
+-- 1. laravrl 
 2. livewire
 3. csstilewind
 4. flux
